@@ -8,5 +8,7 @@ title: Welcome to my blog!
 - But here is a further bullet point.
 
 ------------------------------------------------------------
-More stuff about other things
+
+            More stuff about other things
+
 ------------------------------------------------------------
